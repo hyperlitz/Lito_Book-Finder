@@ -79,7 +79,7 @@ When you are finished, click "Logout" to logout.
 
 To view the deployed application click on the link below:
 
-[Book Search](https://graphql-google-book-search.herokuapp.com/)
+[Book Finder](https://graphql-google-book-search.herokuapp.com/)
 
 
   ## License
